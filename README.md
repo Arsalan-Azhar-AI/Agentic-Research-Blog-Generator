@@ -1,5 +1,3 @@
-### 📊 YOLOv8 Evaluation Results
-![Blog Graph](assets/blog_img.png)
 
 # 🚀 Intelligent Blog Generator — Multi-Agent RAG Workflow with Query Decomposition, Hybrid Retrieval & Human-Feedback Loop
 
@@ -20,7 +18,8 @@ It is designed using **LangGraph**, **LangChain**, **LLMs**, **Cohere Reranker**
 
 # 📊 Workflow Architecture (Graph)
 
-![Workflow Graph](sandbox:/mnt/data/ed2d4551-d566-4cb4-8031-df88578bcee9.png)
+![Workflow Graph](assets/blog_img.png)
+
 
 ---
 
