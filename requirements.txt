@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-chroma
+langchain-cohere
+langchain-groq
+langgraph
+langgraph-cli[inmem]
+sentence_transformers
+wikipedia
+arxiv
+#rank-bm25
+python-dotenv
+langchain_huggingface
